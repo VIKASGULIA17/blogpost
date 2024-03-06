@@ -170,10 +170,15 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-style: outset;
+  border-style: groove;
   box-shadow: 20px solid black;
   height: 70vh;
   padding: 10% auto;
+  color: #e0ff05;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-display: swap;
+  height: 70vh;
 }
 
 #1 {
@@ -194,7 +199,7 @@ form {
 }
 
 .bod {
-  background-image: url('desktop-wallpaper-backgrounds-for-travel-website-travel-agency.jpg');
+  background-image: url('1-nature-photography-spring-season-mumtazshamsee.preview.jpg');
   background-repeat: no-repeat;
-
+  background-size: cover;
 }
