@@ -22,7 +22,9 @@ body {
   padding-top: 2vh;
   max-width: 100vw;
   height: 75px;
-  background: rgb(243, 248, 77);
+  background-image: url('1-nature-photography-spring-season-mumtazshamsee.preview.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
   display: flex;
   align-items: center;
@@ -200,6 +202,9 @@ form {
 
 .bod {
   background-image: url('1-nature-photography-spring-season-mumtazshamsee.preview.jpg');
+  opacity: 70%;
   background-repeat: no-repeat;
   background-size: cover;
+  border-style: none;
+  border-radius: 20%;
 }
